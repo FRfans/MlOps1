@@ -20,3 +20,7 @@ eval:
 check:
 	# Ganti dengan perintah pengecekan/test yang Anda inginkan
 	echo "No tests implemented"
+
+distcheck:
+	# Ganti dengan perintah pengecekan distribusi yang Anda inginkan
+	echo "No distribution checks implemented"
