@@ -16,3 +16,7 @@ eval:
 	echo '![Confusion Matrix](./Results/model_results.png)' >> report.md
 
 	cml comment create report.md
+
+check:
+	# Ganti dengan perintah pengecekan/test yang Anda inginkan
+	echo "No tests implemented"
